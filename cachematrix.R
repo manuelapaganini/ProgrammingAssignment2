@@ -1,9 +1,9 @@
-## The first function, makeCacheMatrix, takes a matrix as an argument and returns a list of functions,
+## The first function makeCacheMatrix, takes a matrix as an argument and returns a list of functions,
 ## permitting to store and retrieve the inverse of a matrix. 
-## The items of the returned list are named, so the functions can be accessed individuall by <objectname>$<function>.
+## The items of the returned list are named, so the functions can be accessed individually by <objectname>$<function>.
 
 ## The second function takes the object created by makeCacheMatrix and returns the cached inverse 
-## if it already has been calculated. If not, it calculates and prints the inverse and also stores it in the 
+## if it already has been calculated. If not, it calculates and prints the inverse and stores it in the 
 ## makeCacheMatrix object. 
 
 
